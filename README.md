@@ -1,2 +1,2 @@
-I used the dataset fron Kaggle that records significant earthquakes that has occurred around the world from 1900 to 2025. 
+I used the dataset fron Kaggle that records significant earthquakes that has occurred around the world from 1900 to 2025 (https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes). 
 I analyzed in two formats, spatially, and graphically. The purpose of the spatial analysis is to discover sesimic regions around the earth and to measure the strength of the earthquaks accrording to a location. For graph analysis, I used pagerank and trianlge counting algorithms.
